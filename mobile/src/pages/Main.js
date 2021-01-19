@@ -95,7 +95,7 @@ export default function Main({ navigation }) {
       <View style={styles.searchForm}>
         <TextInput
           style={styles.searchInput}
-          placeholder='Buscar devs por tecnologia...'
+          placeholder='Buscar devs por tecnologia'
           placeholderTextColor="#999"
           autoCapitalize="words"
           autoCorrect={false}
